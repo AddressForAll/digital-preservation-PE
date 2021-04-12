@@ -10,6 +10,7 @@
 - El nombre de la provincia puede diferir del asiento provincial (ciudad), así como el nombre del distrito de su asiento de distrito.
 - Una ciudad puede estar formada por varios distritos (la ciudad de Lima tiene 43 distritos), pero también puede estar restringida dentro de un distrito.
 - Los registros se encontraron en los municipios distritales como "catastro distrital".
+- La **instancia legal** que asigna nombres a las carreteras son las provincias.
 
 # Licencia
 [Licencia CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es).
