@@ -6,19 +6,29 @@ A Perú se le asignó: en el contexto ISO&nbsp;3166&#8209;2 el geocódigo **PE**
 ## Organización territorial
 El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
-- El país está dividido en **24 departamentos y la Provincia Constitucional del Callao** que son administradas por gobernos regionales compuestos por gobernador y consejo elegidos.
-  - La Provincia Constitucional del Callao es un gobierno regional sin pertenecer a ningún departamento.
-- Los departamentos son divididos en **196 provincias** que son administradas por municipalidades provinciales compuestas por alcalde y concejo elegidos. <br/>Geocódigos numéricos Ubigeo.
-  - La Provincia de Lima, que forma parte del Departamento de Lima, es administrada por la Municipalidad Metropolitana de Lima, pero ejerce también funciones de gobierno regional.
-- Las provincias son divididas en **1874 distritos** que son administradas por municipalidades distritales compuestas por alcalde y concejo elegidos.
-- **Catastros urbanos**: se encuentran en municipalidades provinciales. Solamente en Lima se encontraron catastros a nivel provincial y distrital (catastro distrital).
-- La capital provincial es una ciudad, mientras que un distrito puede tener suya capital en un centro poblado, ciudad o parte de una ciudad.
-- El nombre de la provincia puede diferir de la capital provincial (ciudad), así como el nombre del distrito de la capital de su distrito.
-- Una ciudad puede estar formada por varios distritos, pero también puede estar restringida dentro de un distrito.
-- La provincia de Lima funciona como Distrito Federal, pero no pertenece a ningún departamento, mientras que la sede del Departamento de Lima se encuentra en la ciudad de Huacho, distrito de Huacho, provincia de Huaura.
-- La provincia de Lima se rige por la Municipalidad Metropolitana de Lima y se subdivide en 43 distritos, entre los que se encuentra el Distrito de Lima (o Cercado de Lima).
+* El país está dividido en **24 departamentos y la Provincia Constitucional del Callao** que son administradas por gobernos regionales compuestos por gobernador y consejo elegidos. <br/>Los geocódigos de los departamentos no siguen la convención registrada por [ISO&nbsp;3166&#8209;2:PE](https://en.wikipedia.org/wiki/ISO_3166-2:PE), sino el [Ubigeo](https://es.wikipedia.org/wiki/Ubigeo) (Código de UBIcación GEOgráfica) que es usado por el Instituto Nacional de Estadística e Informática, el Registro Nacional de Identificación y Estado Civil y otros organismos públicos. Los códigos Ubigeo de departamento son 25 códigos, mientras ISO 3166-2:PE son 26. En OpenStreetMap se acuerda que la subdivisión por regiones corresponde al *nivel administrativo 4*.
 
-La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es la provincia.
+* Los departamentos son divididos en **196 provincias** que son administradas por municipalidades provinciales compuestas por alcalde y concejo elegidos. <br/>Geocódigos numéricos Ubigeo.
+
+* Las provincias son divididas en **1874 distritos** que son administradas por municipalidades distritales compuestas por alcalde y concejo elegidos. <br/>Geocódigos numéricos Ubigeo.
+
+* **Catastros urbanos**: se encuentran en municipalidades provinciales. Solamente en Lima se encontraron catastros a nivel provincial y distrital (catastro distrital)
+
+* La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es la provincia.
+
+### Notas
+* La Provincia Constitucional del Callao es un gobierno regional sin pertenecer a ningún departamento.
+
+* El Departamento de Lima tiene como capital *de iure* la ciudad de Lima, mientras la capital *de facto* se encuentra en la ciudad de Huacho, distrito de Huacho, provincia de Huaura.
+
+* La Provincia de Lima, que forma parte del Departamento de Lima, es administrada por la Municipalidad Metropolitana de Lima, pero ejerce también funciones de gobierno regional. Se subdivide en 43 distritos, entre ellos el Distrito de Lima (o Cercado de Lima).
+
+* El nombre de la provincia puede diferir de la capital provincial (ciudad), así como el nombre del distrito de la capital de su distrito.
+
+* La capital provincial es una ciudad, mientras que un distrito puede tener suya capital en un centro poblado, ciudad o parte de una ciudad.
+
+* Una ciudad puede estar formada por varios distritos, pero también puede estar restringida dentro de un distrito.
+
 
 ## Organización de este repositorio
 
