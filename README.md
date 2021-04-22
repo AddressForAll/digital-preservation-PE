@@ -14,7 +14,7 @@ El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
 * **Catastros urbanos**: se encuentran en municipalidades provinciales. Solamente en Lima se encontraron catastros a nivel provincial y distrital (catastro distrital)
 
-* La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es la provincia.
+La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es la provincia.
 
 ### Notas
 * La Provincia Constitucional del Callao es un gobierno regional sin pertenecer a ningún departamento.
