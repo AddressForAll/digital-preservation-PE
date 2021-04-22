@@ -12,7 +12,7 @@ El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
 * Las provincias son divididas en **1874 distritos** que son administradas por municipalidades distritales compuestas por alcalde y concejo elegidos. <br/>Geocódigos numéricos Ubigeo.
 
-* **Catastros urbanos**: se encuentran en municipalidades provinciales. Solamente en Lima se encontraron catastros a nivel provincial y distrital (catastro distrital)
+Catastros urbanos se encuentran en municipalidades provinciales. Solamente en Lima se encontraron catastros a nivel provincial y distrital (catastro distrital).
 
 La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es la provincia.
 
