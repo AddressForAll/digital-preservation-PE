@@ -21,7 +21,7 @@ El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
 * El Departamento de Lima tiene como capital *de iure* la ciudad de Lima, mientras la capital *de facto* se encuentra en la ciudad de Huacho, distrito de Huacho, provincia de Huaura.
 
-* La Provincia de Lima, que forma parte del Departamento de Lima, es administrada por la Municipalidad Metropolitana de Lima, pero ejerce también funciones de gobierno regional. Se subdivide en 43 distritos, entre ellos el Distrito de Lima (o Cercado de Lima).
+* La Provincia de Lima, que forma parte del Departamento de Lima, es administrada por la Municipalidad Metropolitana de Lima, pero ejerce también funciones de gobierno regional. Se subdivide en 43 distritos.
 
 * El nombre de la provincia puede diferir de la capital provincial (ciudad), así como el nombre del distrito de la capital de su distrito.
 
