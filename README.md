@@ -21,7 +21,7 @@ La jurisdicción que asigna nombres a las calles y el sistema de numeración urb
 
 * El Departamento de Lima tiene como capital *de iure* la ciudad de Lima, mientras la capital *de facto* se encuentra en la ciudad de Huacho, distrito de Huacho, provincia de Huaura.
 
-* La Provincia de Lima, que forma parte del Departamento de Lima, es administrada por la Municipalidad Metropolitana de Lima, pero ejerce también funciones de gobierno regional. Se subdivide en 43 distritos; distrito de Lima (tambien conocido como Cercado de Lima y Lima Cercado) es el centro de la ciudade de Lima.
+* La Provincia de Lima, que forma parte del Departamento de Lima, es administrada por la Municipalidad Metropolitana de Lima, pero ejerce también funciones de gobierno regional. Se subdivide en 43 distritos; distrito de Lima (tambien conocido como Cercado de Lima y Lima Cercado) es el centro de la ciudad de Lima.
 
 * El nombre de la provincia puede diferir de la capital provincial (ciudad), así como el nombre del distrito de la capital de su distrito.
 
